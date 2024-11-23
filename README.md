@@ -1,7 +1,11 @@
 ## Hi there 👋
 
 # 💫 About Me:
-Here’s your updated version based on the new details:  <br><br>---<br><br>🔭 **I’m currently working on:**  <br>- Building large language models (LLMs) from scratch for various applications.  <br>- Researching and developing solutions to make websites accessible to visually impaired users using generative AI.  <br>- Designing and implementing efficient MLOps pipelines and scalable ML solutions.  <br><br>🌱 **I’m currently learning:**  <br>- Generative AI and its applications.  <br>- Advancing my understanding of LLMs and Agentic Retrieval-Augmented Generation (Agentic RAG).  <br><br>💬 **Ask me about:**  <br>- Reinforcement learning and its applications.  <br>- Building and fine-tuning LLMs.  <br>- Developing RAG pipelines and creating generative AI applications using various APIs.  <br><br>⚡ **Fun fact:**  <br>- I created the **AutogitPy** Python library to simplify Git operations with just a few commands!  <br>- I love merging cutting-edge AI with practical applications, like creating a voice assistant for a car showroom that compares products and books appointments!
+🔭 I’m currently working on building LLMs from scratch, making websites accessible to visually impaired users with generative AI, and designing efficient MLOps pipelines.  
+🌱 I’m learning about generative AI, LLMs, and Agentic Retrieval-Augmented Generation (Agentic RAG).  
+💬 You can ask me about reinforcement learning, fine-tuning LLMs, or building RAG pipelines using various APIs.  
+⚡ I created **AutogitPy**, a Python library for simplifying Git operations with just a few commands.  
+✨ I enjoy merging AI with real-world applications, like creating a car showroom voice assistant to compare products and book appointments!  
 
 
 ## 🌐 Socials:
