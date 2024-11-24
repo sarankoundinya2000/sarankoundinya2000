@@ -2,12 +2,9 @@
 
 
   I’m currently working on building large language models (LLMs) from scratch, making websites accessible to visually impaired users using generative                                           AI, and designing efficient MLOps pipelines. 
-  
   I’m also learning about generative AI, LLMs, and Agentic Retrieval-Augmented Generation (Agentic RAG). 
   Feel free to ask me about topics like reinforcement learning, fine-tuning LLMs, or building RAG pipelines using various APIs. 
-  
   I’ve created **AutogitPy**, a Python library that simplifies Git operations with just a few commands. 
-  
   I’m passionate about merging AI with real-world applications, such as developing a car showroom voice assistant to                                                                                 compare products and book appointments seamlessly!
 
 
