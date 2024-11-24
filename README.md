@@ -9,6 +9,8 @@
 
 
 
+
+![Gmail](https://img.shields.io/badge/koundinyasaran@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SaranKoundinya2000&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
